@@ -1,0 +1,7 @@
+rootProject.name = 'deleteHarborTags'
+
+/
+1. Read data from execel in java
+2. Make delete request ( okhttp)
+3. In bank, use JDK 1.8
+/
